@@ -1,0 +1,15 @@
+C:\Users\JOBAYER\OneDrive\Tài liệu\jobayer-alam-24-Abstraction_Implementation\bin\Debug\net8.0\jobayer-alam-24-Abstraction_Implementation.exe
+C:\Users\JOBAYER\OneDrive\Tài liệu\jobayer-alam-24-Abstraction_Implementation\bin\Debug\net8.0\jobayer-alam-24-Abstraction_Implementation.deps.json
+C:\Users\JOBAYER\OneDrive\Tài liệu\jobayer-alam-24-Abstraction_Implementation\bin\Debug\net8.0\jobayer-alam-24-Abstraction_Implementation.runtimeconfig.json
+C:\Users\JOBAYER\OneDrive\Tài liệu\jobayer-alam-24-Abstraction_Implementation\bin\Debug\net8.0\jobayer-alam-24-Abstraction_Implementation.dll
+C:\Users\JOBAYER\OneDrive\Tài liệu\jobayer-alam-24-Abstraction_Implementation\bin\Debug\net8.0\jobayer-alam-24-Abstraction_Implementation.pdb
+C:\Users\JOBAYER\OneDrive\Tài liệu\jobayer-alam-24-Abstraction_Implementation\obj\Debug\net8.0\jobayer-alam-24-Abstraction_Implementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOBAYER\OneDrive\Tài liệu\jobayer-alam-24-Abstraction_Implementation\obj\Debug\net8.0\jobayer-alam-24-Abstraction_Implementation.AssemblyInfoInputs.cache
+C:\Users\JOBAYER\OneDrive\Tài liệu\jobayer-alam-24-Abstraction_Implementation\obj\Debug\net8.0\jobayer-alam-24-Abstraction_Implementation.AssemblyInfo.cs
+C:\Users\JOBAYER\OneDrive\Tài liệu\jobayer-alam-24-Abstraction_Implementation\obj\Debug\net8.0\jobayer-alam-24-Abstraction_Implementation.csproj.CoreCompileInputs.cache
+C:\Users\JOBAYER\OneDrive\Tài liệu\jobayer-alam-24-Abstraction_Implementation\obj\Debug\net8.0\jobayer-alam-24-Abstraction_Implementation.sourcelink.json
+C:\Users\JOBAYER\OneDrive\Tài liệu\jobayer-alam-24-Abstraction_Implementation\obj\Debug\net8.0\jobayer-alam-24-Abstraction_Implementation.dll
+C:\Users\JOBAYER\OneDrive\Tài liệu\jobayer-alam-24-Abstraction_Implementation\obj\Debug\net8.0\refint\jobayer-alam-24-Abstraction_Implementation.dll
+C:\Users\JOBAYER\OneDrive\Tài liệu\jobayer-alam-24-Abstraction_Implementation\obj\Debug\net8.0\jobayer-alam-24-Abstraction_Implementation.pdb
+C:\Users\JOBAYER\OneDrive\Tài liệu\jobayer-alam-24-Abstraction_Implementation\obj\Debug\net8.0\jobayer-alam-24-Abstraction_Implementation.genruntimeconfig.cache
+C:\Users\JOBAYER\OneDrive\Tài liệu\jobayer-alam-24-Abstraction_Implementation\obj\Debug\net8.0\ref\jobayer-alam-24-Abstraction_Implementation.dll
